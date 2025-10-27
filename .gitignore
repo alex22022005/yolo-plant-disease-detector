@@ -1,0 +1,17 @@
+# Virtual Environment
+plant_detection/.venv/
+
+# Datasets
+Plant-Disease-Detection-15/
+
+# Training output folders
+plant_disease_training_local/
+
+# Trained models
+
+
+# Output videos
+*.mp4
+
+# Python cache
+__pycache__/
